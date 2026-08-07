@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-slha0n.indcuan.sbs/sitemap.xml
